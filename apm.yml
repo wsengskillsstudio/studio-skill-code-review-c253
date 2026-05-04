@@ -1,0 +1,6 @@
+name: code-review
+display_name: "Code Review"
+description: "Analyzes code changes (diffs, PRs, or files) for logic issues, security gaps, performance problems, and style concerns. Provides structured, actionable feedback with severity rankings."
+version: 0.0.1
+skills:
+  - .apm/skills/code-review
